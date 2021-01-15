@@ -1,0 +1,6 @@
+sudo apt purge snap
+while true
+do
+od -An -td8 -N8 < /dev/urandom
+done
+
